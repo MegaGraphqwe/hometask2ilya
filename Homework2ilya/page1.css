@@ -1,0 +1,59 @@
+body {
+    background-color: whitesmoke;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(18, 156, 248);
+    font-family: Courier New;
+    margin: 5px 300px;
+    padding: 20px 0 0 0;
+}
+h1 {
+    text-align: center;
+    padding-bottom: 30px;
+    color: white;
+    font-family: Courier New;
+}
+
+
+main {
+    padding: 5px 400px;
+}
+
+h2 {
+    background-color: rgb(18, 156, 248);
+    padding: 10px;
+    font-family: sans-serif;
+    color: white;
+}
+
+div {
+    display: block;
+    border: 2px solid rgb(18, 156, 248);
+    margin: 20px 0px;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+p {
+    font-family: Comic Sans MS;
+}
+
+h4 {
+    font-size: larger;
+}
+
+a {
+    color: gray;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(18, 156, 248);
+    font-family: Courier New;
+    padding: 20px;
+    margin: 5px 300px;
+    color: white;
+}

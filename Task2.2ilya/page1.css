@@ -1,0 +1,16 @@
+body{
+    background-image: url(./png/packg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+main{
+    width: 40%;
+    font-family: Comic Sans MS;
+    color: rgb(189, 87, 15);
+    padding: 10px 10px 10px 30px;
+}
+h2{
+    background-image: linear-gradient(to bottom, gray, rgba(211, 211, 211, 0.253));
+
+    padding: 5px;
+}
